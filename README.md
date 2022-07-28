@@ -1,10 +1,11 @@
-### Hi there 👋 My name is Jessica
+### Hi there 👋
 
-<!--
-**jessycunha/jessycunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is _Jessica_
 
-Here are some ideas to get you started:
--->
+<br>
+
+<!-- **jessycunha/jessycunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on GVM Soluções
 - 🌱 I’m currently learning JavaScript and Node.js
@@ -17,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
 
 ## Stacks
 
@@ -44,10 +47,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<br>
 
 ## Contact
 
-<p align="left" style="background:yellow">
+<p align="left">
   <a href="https://www.linkedin.com/in/cunhajessica/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LINKEDIN-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
