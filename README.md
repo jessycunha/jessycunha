@@ -1,8 +1,4 @@
-### Hi there 👋
-
-## My name is _Jessica_
-
-<br>
+## Hi there 👋 My name is _Jessica_
 
 <!-- **jessycunha/jessycunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
@@ -19,37 +15,21 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 -->
 
-<br>
-
-## Stacks
+### Stacks:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/cunhajessica/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="javascript"/>
-  </a>
-  <a href="https://www.linkedin.com/in/cunhajessica/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="node.js"/>
-  </a>
-  <a href="https://www.linkedin.com/in/cunhajessica/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" alt="php"/>
-  </a>
-  <a href="https://www.linkedin.com/in/cunhajessica/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="mysql"/>
-  </a>
-  <a href="https://www.linkedin.com/in/cunhajessica/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="html5"/>
-  </a>
-  <a href="https://www.linkedin.com/in/cunhajessica/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3" alt="css3"/>
-  </a>
-  <a href="https://www.linkedin.com/in/cunhajessica/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="typescript"/>
     <img align="center" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="git"/>
   </a>
 </p>
 
-<br>
-
-## Contact
+### Contact:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cunhajessica/" target="_blank">
