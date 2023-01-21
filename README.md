@@ -3,8 +3,8 @@
 <!-- **jessycunha/jessycunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on GVM Soluções
-- 🌱 I’m currently learning JavaScript and Node.js
+- 🔭 I’m currently working on GVM Soluções as a Support Analyst
+- 🌱 My plan for the first half of 2023 is to practice the stacks I already know a lot to improve my skills and start learning new stacks that I'm interested in
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -18,16 +18,23 @@ Here are some ideas to get you started: -->
 ### Stacks:
 
 <p align="left">
+    <img align="center" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="html5"/>
+    <img align="center" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3" alt="css3"/>
     <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="javascript"/>
     <img align="center" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="node.js"/>
     <img align="center" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" alt="php"/>
     <img align="center" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="mysql"/>
-    <img align="center" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="html5"/>
-    <img align="center" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3" alt="css3"/>
-    <img align="center" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="typescript"/>
     <img align="center" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="git"/>
-  </a>
 </p>
+
+### Interests:
+
+<p align="left">
+    <img align="center" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="typescript"/>
+    <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="git"/>
+    <img align="center" src="https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react" alt="git"/>
+</p>
+    
 
 ### Contact:
 
