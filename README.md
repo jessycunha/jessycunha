@@ -3,7 +3,7 @@
 <!-- **jessycunha/jessycunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on GVM Soluções as a Support Analyst
+- 🔭 I’m currently working on GVM Sistemas as a Support Analyst
 - 🌱 My plan for the first half of 2023 is to practice the stacks I already know a lot to improve my skills and start learning new stacks that I'm interested in
 
 <!--
